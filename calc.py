@@ -21,5 +21,5 @@ def list_square(func, digit_list):
 
 num_list = [1, 2, 3, 4, 5]
 print(list_square(calc_square, num_list))
-print(list_square(calc_plus, num_list))
-print(list_square(calc_quad, num_list))
+#print(list_square(calc_plus, num_list))
+#print(list_square(calc_quad, num_list))
